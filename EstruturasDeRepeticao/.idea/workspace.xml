@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89288fef-6391-4adc-a48d-885daf01c0f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturasDeRepeticao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Condicionais.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlanoOperadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,31 +22,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kR1tqtqqLoEh80udabe9PxeSbz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayFor.executor": "Run",
-    "Application.BreakExemplo.executor": "Run",
-    "Application.ContandoCarneirosFor.executor": "Run",
-    "Application.ContinueExemplo.executor": "Run",
-    "Application.ExemploDoWhile.executor": "Run",
-    "Application.ExemploWhile.executor": "Run",
-    "Application.ForEachExemplo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreakExemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContandoCarneirosFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContinueExemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploDoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEachExemplo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
